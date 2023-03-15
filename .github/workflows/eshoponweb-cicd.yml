@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: c625f28f-dce5-47f3-ac12-eede7a70b167
-  WEBAPP-NAME: az400-webapp-GG
+  WEBAPP-NAME: az400-ThomYOrk
 
 
 jobs:
